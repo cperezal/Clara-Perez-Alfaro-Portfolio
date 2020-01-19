@@ -1,4 +1,4 @@
-# Clara Perez Alfaro Portfolio
+# Portfolio
 Welcome to my portfolio for Telling Stories with Data at Carnegie Mellon!
 
 # About me 
